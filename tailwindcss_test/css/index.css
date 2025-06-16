@@ -1,0 +1,11 @@
+/* Dark to bright */
+.background-nord{
+    background-color: #2e3440;
+    color: #d8dee9;
+}
+.text-normal{
+    color: #d8dee9;
+}
+.text-special{
+    color: #eceff4;
+}
